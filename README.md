@@ -1,7 +1,8 @@
-# SP1 Project Template
+# SP1 ZkEmail
 
-This is a template for creating an end-to-end [SP1](https://github.com/succinctlabs/sp1) project
-that can generate a proof of any RISC-V program.
+ZK Email is an application that allows for anonymous verification of email signatures while masking specific data. It enables verification of emails to/from specific domains or subsets of domains, as well as verification based on specific text in the email body.
+
+This repository contains the SP1 program and the Solidity contract that verifies the SP1 proofs.
 
 ## Requirements
 
